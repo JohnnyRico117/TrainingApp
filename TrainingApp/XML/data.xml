@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no"?>
+<food>   
+	<snacks>
+		<snack>
+			<name>Bifi</name>
+			<menge>25</menge>
+			<kalorien>128</kalorien>
+			<fett>11.0</fett>
+			<carbs>0.25</carbs>
+			<eiweiss>6.3</eiweiss>
+		</snack>
+	</snacks>
+	<gerichte>
+		<gericht>
+			<name>"Hähnchen-Spinat-Auflauf"</name>
+			<gzutat>
+				<name>Hähnchen</name>
+				<menge>180</menge>
+			</gzutat>
+			<gzutat>
+				<name>Spinat</name>
+				<menge>300</menge>
+			</gzutat>
+			<kalorien>423</kalorien>
+			<fett>19.0</fett>
+			<carbs>10.0</carbs>
+			<eiweiss>50.0</eiweiss>
+		</gericht>
+	</gerichte>
+	<zutaten id="zutaten">
+		<zutat>
+			<name>Hähnchen</name>
+			<menge>100</menge>
+			<kalorien>145</kalorien>
+			<fett>0.0</fett>
+			<carbs>6.2</carbs>
+			<eiweiss>22.2</eiweiss>
+		</zutat>
+		<zutat>
+			<name>Spinat</name>
+			<menge>100</menge>
+			<kalorien>54</kalorien>
+			<fett>3.3</fett>
+			<carbs>2.6</carbs>
+			<eiweiss>3.5</eiweiss>
+		</zutat>
+	</zutaten>
+</food>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<zutaten>
+	<zutat>
+		<name>Hähnchen</name>
+		<menge>100</menge>
+		<kalorien>145</kalorien>
+		<fett>0.0</fett>
+		<carbs>6.2</carbs>
+		<eiweiss>22.2</eiweiss>
+	</zutat>
+	<zutat>
+		<name>Spinat</name>
+		<menge>100</menge>
+		<kalorien>54</kalorien>
+		<fett>3.3</fett>
+		<carbs>2.6</carbs>
+		<eiweiss>3.5</eiweiss>
+	</zutat>
+	<zutat>
+		<name>Spinat</name>
+		<menge>100</menge>
+		<kalorien>54</kalorien>
+		<fett>3.3</fett>
+		<carbs>2.6</carbs>
+		<eiweiss>3.5</eiweiss>
+	</zutat>
+</zutaten>

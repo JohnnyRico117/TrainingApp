@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE adressen SYSTEM "adressen">
+<adressen>
+	<adresse>
+		<name>Jagodsen</name>
+		<vorname>Henni</vorname>
+		<telefon vorwahl="01234">4711</telefon>
+		<email>ich@jagodsen.net</email>
+		<strasse>
+			<bez>Flutstraße</bez>
+			<nr>44</nr>
+		</strasse>
+		<ort>Uferdorf</ort>
+	</adresse>
+	<adresse>
+		<name>Huibuh</name>
+		<vorname spitzname="ja">Spensti</vorname>
+		<telefon vorwahl="99887">121212</telefon>
+		<email>gespenst@schloss.edu</email>
+		<strasse>
+			<bez>Versteckte Straße</bez>
+			<nr>0</nr>
+		</strasse>
+		<ort>Heimlichhausen</ort>
+	</adresse>
+</adressen>

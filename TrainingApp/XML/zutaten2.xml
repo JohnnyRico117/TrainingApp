@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE zutaten SYSTEM "adressen">
+<zutaten>
+	<zutat>
+		<name>Spinat</name>
+		<menge>100</menge>
+		<kalorien>54</kalorien>
+		<fett>3.3</fett>
+		<carbs>2.6</carbs>
+		<eiweiss>3.5</eiweiss>
+	</zutat>
+</zutaten>

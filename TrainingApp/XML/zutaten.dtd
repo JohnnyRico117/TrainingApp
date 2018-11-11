@@ -1,0 +1,8 @@
+<!ELEMENT zutaten (zutat*)>
+<!ELEMENT zutat (name, menge, kalorien, fett, carbs, eiweiss)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT menge (#PCDATA)>
+<!ELEMENT kalorien (#PCDATA)>
+<!ELEMENT fett (#PCDATA)>
+<!ELEMENT carbs (#PCDATA)>
+<!ELEMENT eiweiss (#PCDATA)>
